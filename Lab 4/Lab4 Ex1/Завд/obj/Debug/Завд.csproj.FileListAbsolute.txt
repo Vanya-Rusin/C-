@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Завд\Завд\obj\Debug\Завд.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Завд\Завд\obj\Debug\Завд.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Завд\Завд\bin\Debug\Вар4 Завд1.exe.config
+C:\Users\Admin\source\repos\Завд\Завд\bin\Debug\Вар4 Завд1.exe
+C:\Users\Admin\source\repos\Завд\Завд\bin\Debug\Вар4 Завд1.pdb
+C:\Users\Admin\source\repos\Завд\Завд\obj\Debug\Вар4 Завд1.exe
+C:\Users\Admin\source\repos\Завд\Завд\obj\Debug\Вар4 Завд1.pdb
