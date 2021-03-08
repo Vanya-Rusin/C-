@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Lab6 Ex4\Lab6 Ex4\bin\Debug\Lab6 Ex4.exe.config
+C:\Users\Admin\source\repos\Lab6 Ex4\Lab6 Ex4\bin\Debug\Lab6 Ex4.exe
+C:\Users\Admin\source\repos\Lab6 Ex4\Lab6 Ex4\bin\Debug\Lab6 Ex4.pdb
+C:\Users\Admin\source\repos\Lab6 Ex4\Lab6 Ex4\obj\Debug\Lab6 Ex4.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lab6 Ex4\Lab6 Ex4\obj\Debug\Lab6 Ex4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lab6 Ex4\Lab6 Ex4\obj\Debug\Lab6 Ex4.exe
+C:\Users\Admin\source\repos\Lab6 Ex4\Lab6 Ex4\obj\Debug\Lab6 Ex4.pdb
+C:\Users\Admin\source\repos\Lab 6\Lab6 Ex4\Lab6 Ex4\bin\Debug\Lab6 Ex4.exe.config
+C:\Users\Admin\source\repos\Lab 6\Lab6 Ex4\Lab6 Ex4\bin\Debug\Lab6 Ex4.exe
+C:\Users\Admin\source\repos\Lab 6\Lab6 Ex4\Lab6 Ex4\bin\Debug\Lab6 Ex4.pdb
+C:\Users\Admin\source\repos\Lab 6\Lab6 Ex4\Lab6 Ex4\obj\Debug\Lab6 Ex4.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lab 6\Lab6 Ex4\Lab6 Ex4\obj\Debug\Lab6 Ex4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lab 6\Lab6 Ex4\Lab6 Ex4\obj\Debug\Lab6 Ex4.exe
+C:\Users\Admin\source\repos\Lab 6\Lab6 Ex4\Lab6 Ex4\obj\Debug\Lab6 Ex4.pdb
